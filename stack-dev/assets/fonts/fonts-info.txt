@@ -1,0 +1,6 @@
+Fonts used (Google Fonts)
+- Poppins (headings)
+- Inter (body)
+- Fira Code (mono)
+
+Import is included in index.html.

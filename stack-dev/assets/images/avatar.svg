@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Avatar">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <radialGradient id="r" cx="35%" cy="25%" r="80%">
+      <stop offset="0" stop-color="#1B0F39"/>
+      <stop offset="1" stop-color="#0B0616"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="512" height="512" rx="256" fill="url(#r)"/>
+
+  <circle cx="256" cy="256" r="210" fill="rgba(255,255,255,0.03)" stroke="rgba(139,92,246,0.25)" stroke-width="2"/>
+  <circle cx="256" cy="256" r="180" fill="none" stroke="rgba(34,211,238,0.18)" stroke-width="2"/>
+
+  <path d="M256 128c-44 0-80 36-80 80s36 80 80 80 80-36 80-80-36-80-80-80z" fill="rgba(245,243,255,0.10)" stroke="rgba(103,232,249,0.25)" stroke-width="2"/>
+  <path d="M136 398c22-58 67-94 120-94s98 36 120 94" fill="rgba(245,243,255,0.08)" stroke="rgba(167,139,250,0.25)" stroke-width="2" stroke-linecap="round"/>
+
+  <text x="256" y="458" text-anchor="middle" font-family="Poppins, sans-serif" font-weight="800" font-size="28" fill="url(#g)" letter-spacing="6">STACK</text>
+</svg>
